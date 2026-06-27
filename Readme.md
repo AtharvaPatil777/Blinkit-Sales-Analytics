@@ -1,9 +1,10 @@
+<img width="1395" height="721" alt="image" src="https://github.com/user-attachments/assets/51bc64f5-bfb0-4d26-a649-8ed4820ecac9" />
 # 📊 BlinkIT Sales Analysis Dashboard | Power BI
 
 ## 📌 Project Overview
 
 This project is an interactive Power BI dashboard developed to analyze BlinkIT's grocery sales performance, customer satisfaction, and inventory distribution. The dashboard transforms raw sales data into meaningful business insights using interactive visualizations, KPIs, and DAX calculations, enabling data-driven decision-making.
-<img width="1395" height="721" alt="image" src="https://github.com/user-attachments/assets/51bc64f5-bfb0-4d26-a649-8ed4820ecac9" />
+
 
 ---
 
